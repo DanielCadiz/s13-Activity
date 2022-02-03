@@ -235,4 +235,4 @@ let users = `[
 
 let object = JSON.stringify("{\"name\":\"Home Desktop Table\",\"category\":\"Furniture\",\"quantity\":293,\"model\":\"140CMMRNBLK\"}")
 
-console.log(object);
+console.log(object); 
